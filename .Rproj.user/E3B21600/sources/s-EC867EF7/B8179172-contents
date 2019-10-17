@@ -1,0 +1,45 @@
+---
+abstract: The expense associated with using non‐combustible nicotine products as an alternative to smoking may deter smoking reduction or cessation. This study aimed to estimate (i) how much adults in England spend each week on smoking and alternative nicotine products and (ii) the potential cost saving that could be achieved by switching from smoking to using an alternative nicotine delivery product. Data came from September to November 2018 waves of the Smoking Toolkit Study, a series of national household surveys of the adult population in England. A total of 859 adults (aged ≥ 16 years) who reported current smoking or current use of an alternative nicotine product. Participants reported their average weekly expenditure on smoking and alternative nicotine products [nicotine replacement therapy (NRT) or e‐cigarettes]. Current smokers who did not use any alternative nicotine delivery products (n = 602) reported spending on average £23.09 [95% confidence interval (CI) = £21.64–24.54] on smoking each week. Ex‐smokers who used alternative nicotine products (n = 91) reported spending on average £8.59 (95% CI = £6.80–10.39) on these products each week; £8.03 (95% CI = £6.03–10.03) on e‐cigarettes and £10.05 (95% CI = £5.62–14.47) on NRT. People who both smoked and used alternative nicotine products (dual users, n = 166) spent on average £24.54 (95% CI = £21.78–27.29) on smoking and £7.49 (95% CI = £6.00–8.99) on alternative nicotine products each week. Expenditure on smoking was higher among heavier, more addicted smokers and lower among those with routine/manual occupations, non‐daily smokers and roll‐your‐own tobacco users. Expenditure on e‐cigarettes was higher among men, users from central and southern versus northern England and smokers who had tried to quit in the past year, and lower among current smokers. Expenditure on NRT was lower among roll‐your‐own tobacco users. In England, expenditure among e‐cigarette and nicotine replacement therapy users is approximately one‐third of the expenditure of smokers. The average smoker may save an estimated £15.06 per week by switching completely to e‐cigarettes or £13.04 per week by switching to nicotine replacement therapy, although this is likely to differ according to individual usage patterns.. 
+authors:
+- Sarah Jackson
+- Lion Shahab
+- admin
+- Robert West
+- Jamie Brown
+date: "2018-10-10T00:00:00Z"
+doi: "10.1111/add.14446"
+featured: false
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+projects: []
+publication: '*Addiction*'
+publication_short: ""
+publication_types:
+- "2"
+publishDate: "2018-10-10T00:00:00Z"
+slides: example
+summary: In England, expenditure among e‐cigarette and nicotine replacement therapy users is approximately one‐third of the expenditure of smokers. The average smoker may save an estimated £15.06 per week by switching completely to e‐cigarettes or £13.04 per week by switching to nicotine replacement therapy, although this is likely to differ according to individual usage patterns. 
+tags:
+- Source Themes
+title: Expenditure on smoking and alternative nicotine delivery products: a population survey in England
+url_code: ""
+url_dataset: "https://osf.io/r4hfc/"
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/add.14709
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: "" 
+url_video: ""
+---
+
+{{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
+
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

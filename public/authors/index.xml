@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Loren Kock</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 20 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a final year PhD student in Epidemiology and Public Health, working within the University College London Tobacco and Alcohol Research Group (UTARG). My current research is examining the impact of electronic cigarettes and individual-level interventions on socioeconomic inequalities in smoking cessation.&lt;/p&gt;
+
+&lt;p&gt;Funding: Cancer Research UK&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ann McNeill</title>
+      <link>/authors/ann-mcneill/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/ann-mcneill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charlie Smith</title>
+      <link>/authors/charlie-smith/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/charlie-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jamie Brown</title>
+      <link>/authors/jamie-brown/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/jamie-brown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lion Shahab</title>
+      <link>/authors/lion-shahab/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/lion-shahab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert West</title>
+      <link>/authors/robert-west/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-west/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Jackson</title>
+      <link>/authors/sarah-jackson/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/sarah-jackson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zoyah Ahmed</title>
+      <link>/authors/zoyah-ahmed/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/zoyah-ahmed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

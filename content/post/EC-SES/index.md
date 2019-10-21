@@ -13,7 +13,7 @@ image:
 lastmod: "2018-11-01T00:00:00Z"  
 projects: [] 
 subtitle: 'An evidence update from the smoking toolkit study'
-summary: The most recent evidence update from the smoking toolkit study.
+summary: An evidence update from the smoking toolkit study.
 tags: 
 - Academic
 title: 'E-cigarettes – a tool to reduce inequalities in smoking?'

@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1668147406",
+    "hash" : "2952297909",
     "id" : "D0E59261",
-    "lastKnownWriteTime" : 1571654102,
-    "last_content_update" : 1571654102769,
+    "lastKnownWriteTime" : 1571655119,
+    "last_content_update" : 1571655119784,
     "path" : "~/Website/Site/netlify.toml",
     "project_path" : "netlify.toml",
     "properties" : {
-        "cursorPosition" : "10,25",
+        "cursorPosition" : "10,24",
         "scrollLine" : "0",
         "tempName" : "Untitled2"
     },

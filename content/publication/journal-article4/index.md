@@ -20,7 +20,7 @@ slides: example
 summary: An ambitious public health agenda should not place individual and population‐based approaches in false competition, but should understand and act upon multiple levels of health systems. Improved understanding of the nuances related to medication delivery and e‐cigarette use in the stop smoking service context may further encourage equity positive outcomes.
 tags:
 - Source Themes
-title: Commentary on Smith et al. (2019): Equity positive impact of English Stop Smoking Services underlines need for comprehensive approach to public health interventions
+title: Equity positive impact of English Stop Smoking Services underlines need for comprehensive approach to public health interventions
 url_code: ""
 url_dataset: ""
 url_pdf: ""

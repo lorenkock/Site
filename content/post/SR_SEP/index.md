@@ -12,10 +12,10 @@ image:
   preview_only: false 
 lastmod: "2018-11-01T00:00:00Z"  
 projects: [] 
-subtitle: ''
-summary: Latest evidence from the smoking toolkit study on e-cigarettes and health inequalities.
+subtitle: 'Latest evidence from a review of international studies'
+summary: Latest evidence from a review of international studies
 tags: 
-  - Academic
+- Academic
 title: 'Tailoring cessation support for disadvantaged smokers – is it working??'
 ---
   

@@ -6,7 +6,7 @@ date: "2019-07-20T00:00:00Z"
 draft: false 
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Photo by Neil Thomas on Unsplash'
   focal_point: ""
   placement: 2
   preview_only: false 

@@ -12,11 +12,11 @@ image:
   preview_only: false 
 lastmod: "2018-11-01T00:00:00Z"  
 projects: [] 
-subtitle: 'An evidence update from the smoking toolkit study'
-summary: An evidence update from the smoking toolkit study.
+subtitle: 'The latest evidence from a review of global studies'
+summary: The latest evidence from a review of global studies.
 tags: 
 - Academic
-title: 'E-cigarettes – a tool to reduce inequalities in smoking?'
+title: 'Tailoring cessation support for disadvantaged smokers – is it working?'
 ---
   
 **Smoking cigarettes remains a leading cause of preventable death and disease in many high-income countries. Most of these harms fall disproprortionately upon socioeconomically disadvantaged individuals who generally have greater difficulty in quitting and remaining abstinent. In increasingly resource-constrained health systems, what role does behavioural support that is tailored to an individual's socioeconomic position (SEP) play in helping smokers quit and stay quit?**  

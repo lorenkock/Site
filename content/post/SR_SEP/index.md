@@ -1,15 +1,15 @@
 --- 
-  authors:
-  - admin
+authors:
+- admin
 categories: 
-  date: "2019-07-20T00:00:00Z"
+date: "2019-09-20T00:00:00Z"
 draft: false 
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-focal_point: ""
-placement: 2
-preview_only: false 
+  focal_point: ""
+  placement: 2
+  preview_only: false 
 lastmod: "2018-11-01T00:00:00Z"  
 projects: [] 
 subtitle: ''

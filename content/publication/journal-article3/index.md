@@ -1,32 +1,33 @@
 ---
-abstract: Smoking prevalence remains significantly higher among individuals with mental health conditions compared with the general population. Tobacco harm reduction (THR) in the form of replacing cigarettes for electronic cigarettes (ECs) is an alternative approach which may prove useful for these smokers who find it difficult to quit. Exploring how mental health professionals' (MHPs) perceive ECs, and how these influence decision making regarding their use in clinical settings is essential to determine the feasibility of incorporating ECs into the treatment pathway.
+abstract: Socioeconomic inequalities in smoking cessation have led to development of interventions that are specifically tailored for smokers from disadvantaged groups. We aimed to assess whether the effectiveness of interventions for disadvantaged groups is moderated by tailoring for socioeconomic position.
 authors:
-- Charlie Smith 
-- Ann McNeill 
 - admin 
-- Zoyah Ahmed
+- Jamie Brown 
+- Rosemary Hiscock
+- Harry Tattan-Birch
+- Charlie Smith
 - Lion Shahab
-date: "2018-10-10T00:00:00Z"
-doi: "10.1016/j.abrep.2019.100184"
+date: "2019-11-04T00:00:00Z"
+doi: "10.1016/S2468-2667(19)30220-8"
 featured: false
 image: 
   caption: ""
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Addiction*'
+publication: '*The Lancet Public Health*'
 publication_short: "" 
 publication_types:
 - "2"
-publishDate: "2017-01-10T00:00:00Z"
+publishDate: "2019-12-04T00:00:00Z"
 slides: example
-summary: Improved dissemination of national guidance and scientific literature regarding THR and ECs is essential in mental healthcare to eliminate misconceptions and better inform MHPs evidence-based decision-making practices. 
+summary: We found evidence that individual-level interventions can assist disadvantaged smokers with quitting, but there were no large moderating effects of tailoring for disadvantaged smokers. Improvements in tailored intervention development might be necessary to achieve equity-positive smoking cessation outcomes. 
 tags:
 - Source Themes
-title: Mental health professionals' perceptions, judgements and decision-making practices regarding the use of electronic cigarettes as a tobacco harm reduction intervention in mental healthcare
+title: Individual-level behavioural smoking cessation interventions tailored for disadvantaged socioeconomic position: a systematic review and meta-regression
 url_code: ""
-url_dataset: "https://osf.io/r4hfc/"
-url_pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1111/add.14709"
+url_dataset: "https://osf.io/2z6cg/"
+url_pdf: "https://www.thelancet.com/action/showPdf?pii=S2468-2667(19)30220-8"
 url_poster: ""
 url_project: ""
 url_slides: ""

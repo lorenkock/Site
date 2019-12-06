@@ -22,7 +22,7 @@ slides: example
 summary: From 2014 to 2017 in England, e‐cigarette use was greater among smokers from higher compared with lower socio‐economic status (SES) groups, but this difference attenuated over time. Use during a quit attempt was similar throughout SES groups. Use by long‐term ex‐smokers increased over time among all groups and was consistently more common in lower SES groups. 
 tags:
 - Source Themes
-title: E‐cigarette use in England 2014–17 as a function of socio‐economic profile
+title: Individual-level behavioural smoking cessation interventions tailored for disadvantaged socioeconomic position: a systematic review and meta-regression
 url_code: ""
 url_dataset: "https://osf.io/8zdgy/"
 url_pdf: https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC6330091&blobtype=pdf

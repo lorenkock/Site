@@ -3,9 +3,6 @@ abstract: Socioeconomic inequalities in smoking cessation have led to developmen
 authors:
 - admin
 - Jamie Brown
-- Rosemary Hiscock
-- Harry Tattan-Birch
-- Charlie Smith
 - Lion Shahab
 date: "2019-12-04T00:00:00Z"
 doi: "10.1016/S2468-2667(19)30220-8"

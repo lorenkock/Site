@@ -22,7 +22,7 @@ name: Loren Kock
 organizations: 
 - name: University College London
   url: https://www.ucl.ac.uk/epidemiology-health-care/research/behavioural-science-and-health/research/ucl-tobacco-alcohol-research-group-utarg
-role: PhD candidate
+role: Research Fellow
 social:
 - icon: envelope
   icon_pack: fas
@@ -49,4 +49,5 @@ I am a researcher in Epidemiology and Behavioural Science, working within the Un
 2) To develop and apply new methods from applied statistics and economics for integrating data and forecasting new trends, and build towards a microsimulation model of smoking and quitting in Great Britain to identify emergent effects from divergent policy scenarios.
 
 Funding: SPECTRUM Research Consortium
+link:spectrum.ac.uk
 

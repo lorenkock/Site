@@ -17,15 +17,33 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Research Fellow Epidemiology and Behavioural Science"
+  company = "University College London"
+  company_url = "https://www.ed.ac.uk/spectrum/our-research"
+  location = "London, UK"
+  date_start = "2017-09-01"
+  date_end = "2020-08-01"
+  description = """
+  Responsibilities include:  
+  
+  * Modelling population-level trends related to smoking and alcohol use using data from the Smoking and Alcohol Toolkit Studies
+  * Developing and applying new methods from applied statistics and economics for integrating data and forecasting new trends.
+  *Building towards a microsimulation model of smoking and quitting in Great Britain to identify emergent effects from divergent policy scenarios.
+  * Co-leading a randomised controlled trial comparing the effectiveness towards smoking cessation of e-cigarettes in addition to varenicline and behavioural support vs varenicline and behavioural support alone.
+  """
+
+
 [[experience]]
   title = "Cancer Research UK PhD Candidate"
   company = "University College London"
   company_url = "https://www.ucl.ac.uk/epidemiology-health-care/"
   location = "London, UK"
   date_start = "2017-09-01"
-  date_end = ""
+  date_end = "2020-08-01"
   description = """
-  Responsibilities include:  
+  Responsibilities included:  
   
   * Modelling population-level trends on smoking and e-cigarette use using data from the Smoking Toolkit Study
   * Co-leading a randomised controlled trial comparing the effectiveness towards smoking cessation of e-cigarettes in addition to varenicline and behavioural support vs varenicline and behavioural support alone.

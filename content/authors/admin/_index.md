@@ -49,5 +49,5 @@ I am a researcher in Epidemiology and Behavioural Science, working within the Un
 2) To develop and apply new methods from applied statistics and economics for integrating data and forecasting new trends, and build towards a microsimulation model of smoking and quitting in Great Britain to identify emergent effects from divergent policy scenarios.
 
 Funding: SPECTRUM Research Consortium
-link:spectrum.ac.uk
+https://www.ed.ac.uk/spectrum/our-research
 

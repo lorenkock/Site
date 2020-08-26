@@ -3,9 +3,9 @@ authors: admin
 bio: Any and all things global health.
 education:
   courses: 
-  - course: PhD in Epidemiology and Public Health
+  - course: PhD in Epidemiology and Behavioural Science
     institution: UCL  
-    year: 2017-
+    year: 2017-2020
   - course: MSc in Global Health
     institution: UCL
     year: 2016
@@ -42,7 +42,7 @@ user_groups:
 - Visitors
 ---
 
-I am a final year PhD student in Epidemiology and Public Health, working within the University College London Tobacco and Alcohol Research Group (UTARG). My current research is examining the impact of electronic cigarettes and individual-level interventions on socioeconomic inequalities in smoking cessation.
+I am a researcher in Epidemiology and Behavioural Science, working within the University College London Tobacco and Alcohol Research Group (UTARG). My current research objectives as part of the SPECTRUM research consortium are to i) expand an existing informative data source in England – the Smoking and Alcohol Toolkit Study (www.smokinginengland.info and www.alcoholinengland.info) – to other nations in Great Britain using new participatory methods to refine data collection in response to evolving policymaker needs and public interest; and ii) develop and apply new methods from applied statistics and economics for integrating data and forecasting new trends, and build towards a microsimulation model of smoking and quitting in Great Britain to identify emergent effects from divergent policy scenarios.
 
-Funding: Cancer Research UK
+Funding: SPECTRUM Research Consortium
 
